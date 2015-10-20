@@ -30,3 +30,8 @@ every time you finish and then you keep repeat in for a **NEW REPO** in a new pr
 
 ---
 ## Workflow & Commands
+**Git status** is to see which files you have edit since your last commiting
+be aware that it's your choice to do it or not.
+when you add you have to write it  like so ;
+`git add README.md` , this adds your readme to the folder then , you have to `git commit -m "README"`
+to save that change and your edits after you have to `push` your work yo the cloud so people can see it and my push back to do changes.
