@@ -19,7 +19,12 @@ _doesn't include github_ | _Includes Git_
  ** 1) To sign up for Github you need to [visit github] (http://www.github.com) > Sign up and it will ask for a ** **Username** and make if you have an Hstat google account then use it if not use
  a username you'll remember. then create a **pasword** same as your hstat .org password if not something that you'll remember.
  **Beaware that if you get a red bubble just keep working and ignore it**, _CLICK ON FREE ACCOUNT_ AND YOUR FINISHED SIGNING UP !!!
- 
+   A `SSH` key is used to copy a url and can be used for cloning and forking.
+**Git Config** is only done once so that the cloud (github) remembers in which email to save it to. 
+I.E; git config --global user.name "First Last" and then 
+git config --global user.email "username@hstat.org"
+and that is about it.
+
  
 
 
