@@ -16,7 +16,11 @@ _doesn't include github_ | _Includes Git_
 ---
 ## Initial Setup
 **For Initial Setup**  
- ** 1) 
+ ** 1) To sign up for Github you need to [visit github] (http://www.github.com) > Sign up and it will ask for a ** **Username** and make if you have an Hstat google account then use it if not use
+ a username you'll remember. then create a **pasword** same as your hstat .org password if not something that you'll remember.
+ **Beaware that if you get a red bubble just keep working and ignore it**, _CLICK ON FREE ACCOUNT_ AND YOUR FINISHED SIGNING UP !!!
+ 
+ 
 
 
 ---
